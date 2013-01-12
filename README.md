@@ -4,7 +4,7 @@ htw_anfahrt
  "Entwicklung einer interaktive Anfahrtsskizze HTW Dresden" <br>
  "Development of an interactive  mapping application"
  
- *//to do List //* <br>
-*Button "Geolocation"
-*Button "Convert2Pdf
-*Menu "add Layer (the diffrent ways to reach the target)"
+ *//TO DO LIST //* <br>
+*Button "Geolocation" <br>
+*Button "Convert2Pdf <br>
+*Menu "add Layer (the diffrent ways to reach the target)" 
