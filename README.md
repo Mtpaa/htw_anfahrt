@@ -6,5 +6,5 @@ htw_anfahrt
  
  *//TO DO LIST //* <br>
 *Button "Geolocation" <br>
-*Button "Convert2Pdf <br>
+*Button "Print preview" <br>
 *Menu "add Layer (the diffrent ways to reach the target)" 
